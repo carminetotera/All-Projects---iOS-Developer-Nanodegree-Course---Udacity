@@ -8,11 +8,6 @@
 
 A simple AVFoundation app that uses your phone's microphone to record audio and then apply audio effects on the recording: slow speed, high speed, low pitch, high pitch echo, and reverb.
 
-Basic features Based on the criteria found in here:
-
-- [Project Rubric](https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true)
-
-
 <img src="/ScreenShots/ScreenShot1.png" height="49%" width="49%"> <img src="/ScreenShots/ScreenShot2.png" height="49%" width="49%">
 
 ## Implementation
