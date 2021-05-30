@@ -1,1 +1,1 @@
-# All-Projects - iOS-Developer Nanodegree Course - Udacity
+# All-Projects - iOS Developer Nanodegree Course - Udacity
