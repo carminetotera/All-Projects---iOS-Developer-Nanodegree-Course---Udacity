@@ -1,5 +1,3 @@
-# All-Projects - iOS Developer Nanodegree Course - Udacity
-
 # 01 - Pitch Perfect [![Travis CI](https://travis-ci.org/emreozdil/PitchPerfect.svg?branch=master)](https://travis-ci.org/emreozdil/PitchPerfect/builds) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Udacity Project 1: Pitch Perfect iOS Developer Nanodegree
