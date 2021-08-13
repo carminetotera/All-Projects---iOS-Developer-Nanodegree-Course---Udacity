@@ -55,8 +55,8 @@ extension FlickerClient {
     // MARK: Constants
     struct Constants {
         
-        // MARK: API Key
-        static let ApiKey = "1da76ac2d1818560c54db9c5e3191898"
+        // MARK: API Key insert
+        static let ApiKey = "API_KEY_FLICKER"
                         
         // MARK: URLs
         static let ApiScheme = "https"
