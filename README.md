@@ -7,7 +7,7 @@ Swift programming, Core Data, UIKit, iOS networking, app publishing, User interf
 
 All Projects Submitted
 
-### Project - Pitch Perfect
+### 01 - Project - Pitch Perfect
 
 Audio processing application.
 
@@ -18,8 +18,8 @@ Audio processing application.
 
 ---
 
-### Project - MemeMe 1.0 : The Meme Editor
-### Project - MemeMe 2.0 : The Final Product
+### 02 - Project - MemeMe 1.0 : The Meme Editor
+### 03 - Project - MemeMe 2.0 : The Final Product
 
 Application for meme creation.
 
@@ -33,7 +33,7 @@ Application for meme creation.
 
 ---
 
-### Project - On the Map
+### 04 - Project - On the Map
 
 Location sharing application for Udacity students.
 
@@ -46,7 +46,7 @@ Location sharing application for Udacity students.
 
 ---
 
-### Project - Virtual Tourist
+### 05 - Project - Virtual Tourist
 
 Location-based application for browsing [Flickr](https://www.flickr.com) photos.
 
