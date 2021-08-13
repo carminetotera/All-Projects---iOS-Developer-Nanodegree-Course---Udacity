@@ -1,4 +1,4 @@
-# ios-developer-nanodegree
+# iOS Nanodegree - Udacity (August 2021)
 Projects for Udacity iOS Developer Nanodegree v4.0.0
 
 ## Project - Pitch Perfect
