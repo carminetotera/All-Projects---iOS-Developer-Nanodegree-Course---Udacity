@@ -1,23 +1,12 @@
-# 01 - Pitch Perfect [![Travis CI](https://travis-ci.org/emreozdil/PitchPerfect.svg?branch=master)](https://travis-ci.org/emreozdil/PitchPerfect/builds) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ios-developer-nanodegree
+Projects for Udacity iOS Developer Nanodegree v4.0.0
 
-### Udacity Project 1: Pitch Perfect iOS Developer Nanodegree
+## Project - Pitch Perfect
 
-A simple AVFoundation app that uses your phone's microphone to record audio and then apply audio effects on the recording: slow speed, high speed, low pitch, high pitch echo, and reverb.
+## Project - MemeMe 1.0 : The Meme Editor
 
-<img src="/screen/01-pitch_perfect_1.png" height="49%" width="49%"> <img src="/screen/01-pitch_perfect_2.png" height="49%" width="49%">
+## Project - MemeMe 2.0 : The Final Product
 
-## Implementation
+## Project - On the Map
 
-Pitch Perfect has two Scenes:
-
-- **RecordSoundsViewController** : consists a record button with a microphone image. Tapping this microphone button starts an audio recording session and present a stop button. When the stop button is clicked, the app completes recording and then show the PlaySound controller.
-- **PlaySoundsViewController** : contains six buttons to play the recorded sound file with different effects related to the button image and a stop button at the bottom
-
-*The App supports both orientations. I have varied traits for the landscape orientation of PlaySoundsViewController to make it look good with the use of stack views.*
-
-The application uses code from `AVFoundation` to record sounds from the microphone `(AVAudioRecorder)` and play recorded audio with effects `(AVAudioPlayer, AVAudioEngine)`.
-
-## Requirements
-
-- Xcode 10
-- Swift 4.2
+## Project - Virtual Tourist
