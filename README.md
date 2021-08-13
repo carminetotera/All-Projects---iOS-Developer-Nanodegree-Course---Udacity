@@ -1,3 +1,5 @@
+![Preview](https://camo.githubusercontent.com/92463c2594bbe59052778133827881e00fbc409f39c8b1f9686f0c90e10a047a/68747470733a2f2f692e696d6775722e636f6d2f4134454b355a7a2e706e67)
+
 ## iOS Developer Nanodegree Program - Udacity (August 2021)
 Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad to showcase your skills!
 
