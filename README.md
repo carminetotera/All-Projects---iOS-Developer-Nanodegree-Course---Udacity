@@ -17,6 +17,7 @@ Audio processing application.
 - [x] Capture voice using microphone
 - [x] Apply audio effects (Darth Vader, Chipmunk, etc.)
 
+---
 
 ### 02 - Project - MemeMe 1.0 : The Meme Editor
 ### 03 - Project - MemeMe 2.0 : The Final Product
