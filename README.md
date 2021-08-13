@@ -1,7 +1,13 @@
-# iOS Developer Nanodegree - Udacity (August 2021)
-Projects for Udacity iOS Developer Nanodegree v4.0.0
+## iOS Developer Nanodegree Program - Udacity (August 2021)
+Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad to showcase your skills!
 
-## Project - Pitch Perfect
+### Skills Covered
+
+Swift programming, Core Data, UIKit, iOS networking, app publishing, User interfaces, Local Persistence, APIs
+
+All Projects Submitted
+
+### Project - Pitch Perfect
 
 Audio processing application.
 
@@ -10,10 +16,10 @@ Audio processing application.
 - [x] Capture voice using microphone
 - [x] Apply audio effects (Darth Vader, Chipmunk, etc.)
 
------
+---
 
-## Project - MemeMe 1.0 : The Meme Editor
-## Project - MemeMe 2.0 : The Final Product
+### Project - MemeMe 1.0 : The Meme Editor
+### Project - MemeMe 2.0 : The Final Product
 
 Application for meme creation.
 
@@ -25,9 +31,9 @@ Application for meme creation.
 - [x] Share and save new memes
 - [x] All memes are saved locally on device
 
------
+---
 
-## Project - On the Map
+### Project - On the Map
 
 Location sharing application for Udacity students.
 
@@ -38,9 +44,9 @@ Location sharing application for Udacity students.
 - [x] Browse student locations on the list
 - [x] Publish your own location
 
------
+---
 
-## Project - Virtual Tourist
+### Project - Virtual Tourist
 
 Location-based application for browsing [Flickr](https://www.flickr.com) photos.
 
