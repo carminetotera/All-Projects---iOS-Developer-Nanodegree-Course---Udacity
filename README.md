@@ -1,9 +1,10 @@
 ## iOS Developer Nanodegree Program - Udacity (August 2021)
 Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad to showcase your skills!
 
-### Skills Covered
-
+#### Skills Covered
 Swift programming, Core Data, UIKit, iOS networking, app publishing, User interfaces, Local Persistence, APIs
+
+---
 
 All Projects Submitted
 
@@ -16,7 +17,6 @@ Audio processing application.
 - [x] Capture voice using microphone
 - [x] Apply audio effects (Darth Vader, Chipmunk, etc.)
 
----
 
 ### 02 - Project - MemeMe 1.0 : The Meme Editor
 ### 03 - Project - MemeMe 2.0 : The Final Product
